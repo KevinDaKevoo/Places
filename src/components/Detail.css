@@ -1,0 +1,39 @@
+.detailed-info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.each-container {
+  display: flex;
+}
+
+.info {
+  display: flex;
+  width: 100%;
+}
+
+.detail-info {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.hours {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.business-hours {
+  display: flex;
+}
+
+.detail-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2em;
+}

@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  height: 500px;
+  width: auto;
+  border-radius: 10%;
+}
+
+html {
+  background-color: lightslategray;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans
+}
+
+a {
+  text-decoration: none;
+}
+a:hover{
+  color: red;
+}
+
+a:active {
+  color: blue;
+}
+
+a:visited {
+  color: cyan;
+}
